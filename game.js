@@ -1,4 +1,4 @@
- console.log("Hello, World!")
+console.log("Hello, World!")
 const mergeButton = document.getElementById("mergeButton");
 const merge1 = document.getElementById("merge1");
 const merge2 = document.getElementById("merge2");
